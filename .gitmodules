@@ -1,0 +1,7 @@
+[submodule "novasql"]
+	path = novasql
+	url = git@github.com:tuannm99/novasql.git
+
+[submodule "novakv"]
+	path = novakv
+	url = git@github.com:tuannm99/novakv.git
