@@ -5,3 +5,7 @@
 [submodule "novakv"]
 	path = novakv
 	url = git@github.com:tuannm99/novakv.git
+
+[submodule "novadb-lite"]
+	path = novakv
+	url = git@github.com:tuannm99/novadb-lite.git
