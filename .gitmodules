@@ -9,3 +9,7 @@
 [submodule "novadb-lite"]
 	path = novadb-lite
   url = git@github.com:tuannm99/novadb-lite.git
+
+[submodule "zoocooker"]
+	path = zoocooker 
+	url = git@github.com:tuannm99/zoocooker.git
