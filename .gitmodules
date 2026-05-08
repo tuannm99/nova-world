@@ -13,3 +13,7 @@
 [submodule "zoocooker"]
 	path = zoocooker 
 	url = git@github.com:tuannm99/zoocooker.git
+
+[submodule "compact-core"]
+	path = compact-core 
+	url = git@github.com:tuannm99/compact-core.git
